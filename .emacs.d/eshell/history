@@ -1,0 +1,77 @@
+ls
+ll
+sudo pip
+sudo apt-get install pip
+sudo apt-cache search pip
+sudo apt-get install python-pip
+sudo apt-cache search curl
+curl
+sudo pip install http://bitbucket.org/agr/ropemacs/get/tip.tar.gz
+curl -L https://github.com/pinard/Pymacs/tarball/v0.24-beta2 | tar zx
+curl -L https://github.com/pinard/Pymacs/tarball/v0.24-beta2 | tar zx
+curl -L https://github.com/pinard/Pymacs/tarball/v0.24-beta2
+ls
+cd Documents/
+cd ..
+ls Downloads/
+ls -a
+curl --help
+sudo pip --help
+pip --help
+sudo pip uninstall ropemacs
+python manage.py runserver
+pwd
+mkdir templates
+python manage.py startapp blog
+ll
+ls
+cd blog
+ls
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+cd blog/
+ls
+python manage.py runserver
+cd ..
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+django -v
+django-admin -v
+python
+sudo apt-get autoremove python-django
+python manage.py runserver
+cd ..
+django-admin.py startproject crepes
+cd crepes/
+ll
+ls
+ls
+cd crepes/
+ls
+sudo pip uninstall Django
+sudo pip install Django==1.5
+cd ../..
+rm -R crepes/
+django-admin.py startproject crepes
+cd crepes/
+ls
+cd crepes/
+ls
+cd ,,
+cd ..
+python manage.py startapp blog
+ls
+mv ../crepes_bretonnes/blog/views.py ./blog/views.py
+mv ../crepes_bretonnes/blog/urls.py ./blog/urls.py
+mv ../crepes_bretonnes/urls.py ./crepes/urls.py
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+python manage.py runserver
+mv ../crepes_bretonnes/blog/urls.py ./blog/urls.py
+mv ../crepes_bretonnes/blog/views.py ./blog/views.py
+python manage.py runserver
+python manage.py runserver

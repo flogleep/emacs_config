@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jul  9 17:31:13 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("INSTALLED_APPS"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/igor/django/crepes/blog/views.py" "/home/igor/django/crepes/blog/urls.py" "/home/igor/django/crepes/crepes/settings.py" "/home/igor/django/crepes_bretonnes/blog/urls.py" "/home/igor/django/crepes_bretonnes/urls.py" "/home/igor/django/crepes_bretonnes/blog/views.py" "/home/igor/.emacs.el" "/home/igor/django/crepes_bretonnes/blog/views.py" "/home/igor/django/crepes_bretonnes/settings.py" "/home/igor/.emacs.el" "/home/igor/emacs_training/latex.tex" "/home/igor/.emacs.el" "/home/igor/emacs_training/python.py" "/home/igor/.emacs.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/igor/django/crepes/blog/views.py"
+  "views.py"
+  'python-mode
+  '(auto-complete-mode autopair-mode)
+  469
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/igor/django/crepes/blog/urls.py"
+  "urls.py"
+  'python-mode
+  '(auto-complete-mode autopair-mode)
+  372
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/igor/django/crepes/crepes/settings.py"
+  "settings.py<2>"
+  'python-mode
+  '(visual-line-mode auto-complete-mode autopair-mode)
+  5443
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/igor/django/crepes_bretonnes/settings.py"
+  "settings.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode autopair-mode)
+  4455
+  '(5321 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/igor/.emacs.el"
+  ".emacs.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode autopair-mode flycheck-mode)
+  2914
+  '(2398 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
